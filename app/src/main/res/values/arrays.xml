@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="material_components">
+    <item>Bottom App Bar</item>
+    <item>Bottom Navigation</item>
+    <item>Bottom Sheet</item>
+    <item>Checkboxes</item>
+    <item>Chips</item>
+    <item>Collapsing Toolbars</item>
+    <item>Dialogs</item>
+    <item>Expansion Panels</item>
+    <item>Forms</item>
+    <item>Floating Action Buttons</item>
+    <item>Grid</item>
+    <item>Lists</item>
+    <item>Menu</item>
+    <item>Material Buttons</item>
+    <item>Material Cards</item>
+    <item>Pickers</item>
+    <item>Progress &amp; Activity</item>
+    <item>Sliders</item>
+    <item>Snackbars &amp; Toasts</item>
+    <item>Steppers</item>
+    <item>Radio Buttons</item>
+    <item>Tab Layout</item>
+    <item>Text Fields</item>
+    <item>Toolbars</item>
+    <item>Top App Bars</item>
+    <item>Implementations</item>
+  </string-array>
+
+  <integer-array name="material_components_icons">
+    <item>@drawable/ic_bottom_navigation</item>
+    <item>@drawable/ic_bottom_navigation</item>
+    <item>@drawable/ic_bottom_sheet</item>
+    <item>@drawable/ic_checkbox</item>
+    <item>@drawable/ic_chips</item>
+    <item>@drawable/ic_expandable</item>
+    <item>@drawable/ic_dialog</item>
+    <item>@drawable/ic_expandable</item>
+    <item>@drawable/ic_forms</item>
+    <item>@drawable/ic_floating_action_button</item>
+    <item>@drawable/ic_grid_view</item>
+    <item>@drawable/ic_list</item>
+    <item>@drawable/ic_menu_orange</item>
+    <item>@drawable/ic_buttons</item>
+    <item>@drawable/ic_material_cards</item>
+    <item>@drawable/ic_pickers</item>
+    <item>@drawable/ic_progress</item>
+    <item>@drawable/ic_steppers</item>
+    <item>@drawable/ic_steppers</item>
+    <item>@drawable/ic_steppers</item>
+    <item>@drawable/ic_radio_buttons</item>
+    <item>@drawable/ic_toolbar</item>
+    <item>@drawable/ic_text_view</item>
+    <item>@drawable/ic_toolbar</item>
+    <item>@drawable/ic_toolbar</item>
+    <item>@drawable/ic_implementations</item>
+  </integer-array>
+
+
+  <string-array name="material_implementations">
+    <item>Profile</item>
+    <item>No Item Page</item>
+    <item>Player</item>
+    <item>Timeline</item>
+    <item>Shopping</item>
+    <item>Search Page</item>
+    <item>Slider Image</item>
+    <item>Settings</item>
+    <item>Verification</item>
+    <item>Login</item>
+    <item>Sign Up</item>
+    <item>Payment</item>
+    <item>Dashboard</item>
+    <item>Article</item>
+    <item>About</item>
+  </string-array>
+
+  <string-array name="bottom_navigation">
+    <item>Basic Light</item>
+    <item>Basic Dark</item>
+    <item>Basic Primary</item>
+    <item>Shifting</item>
+    <item>Icon</item>
+    <item>Icon with Text</item>
+  </string-array>
+
+
+</resources>
